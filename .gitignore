@@ -1,6 +1,8 @@
 server/log/
 #Node js files that occasionally popup
 *.node-xmlhttprequest*
+*~
+*.swp
 
 .sync
 playbook.retry
